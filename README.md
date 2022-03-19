@@ -1,16 +1,23 @@
-### Hi there 👋
+<h1 align="left">Olá, prazer, sou Igor. ca<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
 
-<!--
-**WTCHCRFTT/WTCHCRFTT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://linktr.ee/igorfm" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white" alt="linktree" />
+</a>
 
-Here are some ideas to get you started:
+## 𝗘𝗱𝗶𝘁𝗼𝗿𝗲𝘀/𝗜𝗗𝗘𝘀
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Repl.it](https://img.shields.io/badge/Repl.it-%230D101E.svg?style=for-the-badge&logo=replit&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 𝗧𝗲𝗰𝗻𝗼𝗹𝗼𝗴𝗶𝗮𝘀
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+## 𝗢𝘂𝘁𝗿𝗮𝘀 𝘁𝗲𝗰𝗻𝗼𝗹𝗼𝗴𝗶𝗮𝘀
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+## 𝗚𝗶𝘁𝗛𝘂𝗯 𝗔𝗻𝗮𝗹𝘆𝘁𝗶𝗰𝘀
+<img align="right" height="280em" src="https://i.makeagif.com/media/7-28-2019/owXHrO.gif"/>
+<p align="left">
+  <img width="500em" src="https://github-readme-stats.vercel.app/api?username=WTCHCRFTT&show_icons=true&theme=tokyonight" alt="Igor's stats"/>
+  <img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WTCHCRFTT&layout=compact&theme=tokyonight" alt="Igor's most languages"/>
+</p>
