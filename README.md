@@ -16,7 +16,7 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ## 𝗚𝗶𝘁𝗛𝘂𝗯 𝗔𝗻𝗮𝗹𝘆𝘁𝗶𝗰𝘀
-<img align="right" height="280em" src="https://i.makeagif.com/media/7-28-2019/owXHrO.gif"/>
+<img align="right" height="200em" src="https://i.makeagif.com/media/7-28-2019/owXHrO.gif"/>
 <p align="left">
   <img width="500em" src="https://github-readme-stats.vercel.app/api?username=WTCHCRFTT&show_icons=true&theme=tokyonight" alt="Igor's stats"/>
   <img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WTCHCRFTT&layout=compact&theme=tokyonight" alt="Igor's most languages"/>
