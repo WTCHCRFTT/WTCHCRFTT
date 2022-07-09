@@ -10,7 +10,7 @@
 ![Sublime Text](https://img.shields.io/badge/sublime_text%20-black.svg?style=for-the-badge&logo=sublime-text&logoColor=orange)
 ## 𝗧𝗲𝗰𝗻𝗼𝗹𝗼𝗴𝗶𝗮𝘀
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white))
 ## 𝗢𝘂𝘁𝗿𝗮𝘀 𝘁𝗲𝗰𝗻𝗼𝗹𝗼𝗴𝗶𝗮𝘀
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
