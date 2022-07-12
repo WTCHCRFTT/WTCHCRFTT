@@ -25,7 +25,7 @@
 ## 𝗚𝗶𝘁𝗛𝘂𝗯 𝗔𝗻𝗮𝗹𝘆𝘁𝗶𝗰𝘀
 <img align="right" height="280em" src="https://c.tenor.com/oZU8_qYQ-oEAAAAC/iwakura-lain.gif"/>
 <p align="left">
-  <img width="500em" src="https://github-readme-stats.vercel.app/api?username=WTCHCRFTT&show_icons=true&theme=darkmode" alt="Igor's stats"/>
-  <img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WTCHCRFTT&layout=compact&theme=darkmode" alt="Igor's most languages"/>
+  <img width="500em" src="https://github-readme-stats.vercel.app/api?username=WTCHCRFTT&show_icons=true&theme=dark" alt="Igor's stats"/>
+  <img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WTCHCRFTT&layout=compact&theme=dark" alt="Igor's most languages"/>
 </p>
 
