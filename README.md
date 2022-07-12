@@ -26,6 +26,6 @@
 <img align="right" height="280em" src="https://c.tenor.com/oZU8_qYQ-oEAAAAC/iwakura-lain.gif"/>
 <p align="left">
   <img width="500em" src="https://github-readme-stats.vercel.app/api?username=WTCHCRFTT&show_icons=true&theme=tokyonight" alt="Igor's stats"/>
-  <img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WTCHCRFTT&layout=compact&theme=tokyonight" alt="Igor's most languages"/>
+  <img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WTCHCRFTT&layout=compact&theme=tokyo" alt="Igor's most languages"/>
 </p>
 
