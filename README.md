@@ -1,5 +1,5 @@
 <html>
-<p align=center> <h1 align="left">Olá, prazer, me chamo Igor.</h1> </p>
+ <h1 align="center">Olá, prazer, me chamo Igor.</h1>
 </html>
 
 <a href="https://linktr.ee/igorfm" target="_blank">
