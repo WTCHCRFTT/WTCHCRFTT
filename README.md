@@ -2,7 +2,7 @@
  <h1 align="center">Olá, prazer, me chamo Igor.</h1>
 </html>
 
-<a href="https://linktr.ee/igorfm" target="_blank">
+![Meios de contato]<a href="https://linktr.ee/igorfm" target="_blank">
   <img align="center" src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white" alt="linktree" />
 </a>
 
